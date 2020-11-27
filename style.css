@@ -1,0 +1,30 @@
+h1
+{
+		color: purple;
+}
+
+body 
+{
+	background-color: black;
+}
+
+
+#carte
+{
+		width: 800px;
+		margin:0 auto;
+		background-color: black;
+		text-align: center;
+		align-content: center;
+
+}
+
+p
+{
+	color: white
+}
+
+h2
+{
+	color: pink;
+}
